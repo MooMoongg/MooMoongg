@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**MooMoongg/MooMoongg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![MooMoongg's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MooMoongg&show_icons=true&count_private=true&hide=prs&theme=radical)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠️ Tech Stack
+
+### Frontend
+- **JavaScript**
+- **React**
+- **HTML** / **CSS**
+- **JSP**
+
+### Backend
+- **Java** (SpringBoot, Spring Framework)
+- **Node.js**
+- **MyBatis**
+- **RESTful API (JSON)**
+
+### Database
+- **MySQL** / **Oracle**
+
+### DevOps & Tools
+- **Docker & Docker Compose**
+- **AWS**
+- **nginx**
+- **Git & GitHub**
+- **Ubuntu**
+
+## 💬 Let's connect!
+- [LinkedIn](your-linkedin-url)
+- [Blog](your-blog-url)
